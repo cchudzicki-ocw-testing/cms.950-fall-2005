@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: The FBI's digital video authenticator with camcorder.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Digital Video Authenticator (thumbnail)
